@@ -115,6 +115,11 @@ random_car_images = [
     'https://upload.wikimedia.org/wikipedia/commons/0/0b/1968_AMC_AMX_390_Go_Package%2C_front_left_%28Cruisin%27_the_River_Lowellville_Car_Show%2C_June_19th%2C_2023%29.jpg',
     'https://hips.hearstapps.com/hmg-prod/images/2024-subaru-brz-ts-125-658066d817df4.jpg?crop=0.556xw:0.625xh;0.288xw,0.245xh&resize=768:*',
     'https://www.carscoops.com/wp-content/uploads/2015/11/2016-Fiat-Tipo-130.jpg',
+    'https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/4th-Toyota-Cressida.jpg/1200px-4th-Toyota-Cressida.jpg',
+    'https://d2s8i866417m9.cloudfront.net/photo/6143792/photo/medium-2ce4dccb8b51acbfa75c57b51d3933fe.jpg',
+    'https://upload.wikimedia.org/wikipedia/commons/c/c5/EV1A014_%281%29_cropped.jpg',
+    'https://i.guim.co.uk/img/media/96dff775945181b8e1abd36ca1ca8a71e1be4bf1/574_369_2633_1580/master/2633.jpg?width=1200&quality=85&auto=format&fit=max&s=564f90c3958219bf7f070d0d17309002',
+    'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Nippon_Rent-A-Car_Isuzu_Elf_NJR85A.jpg/1200px-Nippon_Rent-A-Car_Isuzu_Elf_NJR85A.jpg',
 
     # قم بإضافة المزيد من روابط الصور هنا
 ]
